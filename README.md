@@ -1,4 +1,4 @@
-# 💕 Hi there, I'm Sanjiv Kumar Kushwaha  💞
+# Hi there, I'm Sanjiv Kumar Kushwaha  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sanjivkumar09&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
