@@ -1,7 +1,7 @@
 # Hi there, I'm Sanjiv Kumar Kushwaha  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanjivkumar09&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar071" />
+  <img src="https://komarev.com/ghpvc/?username=sanjivkumar09&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivkumar09" />
 </p>
 
 ** Passionate about Artificial Intelligence & Data Scientist || Frontend Developer **
@@ -10,9 +10,9 @@
 | DBMS | MySQL | Oracle | MongoDB | DSA **
 
 
-Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ kushwahasanjiv01@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/surajkumar071/surajkumar071/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sanjivkumar09/surajkumar071/assets/images/hr.gif" />
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_surajnirala_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajkumar071) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_surajnirala_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodewithAshu071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajnirala9006@gmail.com) 
@@ -47,7 +47,7 @@ Email Me 👉 ✉️ surajnirala9006@gmail.com For Collaboration/Project or Anyt
 <div align="center">
 
 <!-- run  -->
-<img src="https://cdn.jsdelivr.net/gh/surajkumar071/sanjivkumar09/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/sanjivkumar09/sanjivkumar09/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke  -->
 <div>
