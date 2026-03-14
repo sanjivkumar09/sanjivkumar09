@@ -1,90 +1,72 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Sanjiv+Kumar+Kushwaha;Full+Stack+Developer;Building+Real+World+Products;Founder+%7C+Startup+Builder"/>
+
+# Sanjiv Kumar Kushwaha
+
+Full-Stack Developer • Startup Builder
+
+</p>
+
+<p align="center">
+Building technology that connects **real-world services with digital platforms.**
 </p>
 
 ---
 
-# 👋 Hello, I'm Sanjiv
+## About
 
-Full-stack developer focused on **building real-world digital products**.
+Developer focused on building **real products, not just projects**.
 
-I enjoy working on **systems that solve practical problems**, combining
-clean design, scalable architecture, and user-focused experiences.
+I work primarily across **mobile, web, and backend systems**, with a strong interest in:
 
-Currently working on a **technology platform in the service industry**.
+• product-driven development
+• scalable architectures
+• service marketplace platforms
+• startup technology ecosystems
 
-Not public yet.
+Currently building a platform in the **service infrastructure space**.
 
----
-
-## 🚀 Current Focus
-
-• Building scalable applications
-• Designing startup-grade products
-• Developing mobile and web platforms
-• Learning system design and product architecture
+Still under development.
 
 ---
 
-## ⚡ What I Build
-
-• Mobile Applications
-• Web Platforms
-• Backend Systems
-• Service Marketplaces
-• Product-driven startups
-
----
-
-## 🧠 Tech Stack
+## What I Work With
 
 **Frontend**
 
-Flutter
-React
-HTML
-CSS
-Tailwind
+Flutter • React • HTML • CSS • Tailwind
 
 **Backend**
 
-Node.js
-Express
-MySQL
+Node.js • Express • MySQL
 
 **Tools**
 
-Git
-GitHub
-Figma
-Android Studio
-VS Code
+Git • GitHub • Android Studio • VS Code • Figma
 
 ---
 
-## 🧪 Selected Work
+## Current Direction
 
-Currently building something in the **service infrastructure space**.
-
-The goal is to rethink how **offline services connect with technology**.
-
-More details coming soon.
+• building production-grade applications
+• designing scalable service platforms
+• exploring system architecture
+• developing startup products
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&hide_border=true&theme=tokyonight" height="170"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivkumar09&theme=tokyo-night&hide_border=true"/>
@@ -92,14 +74,12 @@ More details coming soon.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Email
 [kushwahasanjiv01@gmail.com](mailto:kushwahasanjiv01@gmail.com)
 
 ---
 
-> I believe the best way to learn technology
-> is by **building products that people actually use.**
-
-⭐ From **Sanjiv Kumar Kushwaha**
+> The best way to learn technology
+> is to **build things people actually use.**
