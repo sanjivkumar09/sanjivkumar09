@@ -63,3 +63,41 @@ Features:
 - 📊 Service management dashboard
 
 Tech Stack:
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivkumar09&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: **kushwahasanjiv01@gmail.com**
+
+💼 LinkedIn: *(add your LinkedIn link)*  
+
+🐦 Twitter / X: *(optional)*
+
+---
+
+## ⚡ Fun Fact
+
+> I am not just building apps —  
+> I am building a **startup ecosystem around technology.**
+
+---
+
+⭐ From [Sanjiv Kumar Kushwaha](https://github.com/sanjivkumar09)
