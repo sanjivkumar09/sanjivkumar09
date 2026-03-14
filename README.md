@@ -1,105 +1,65 @@
+<h1 align="center">Hi 👋, I'm Sanjiv Kumar Kushwaha</h1>
+<h3 align="center">🚀 Founder of Yantra Care | Full Stack Developer | Flutter & React</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Sanjiv+Kumar+Kushwaha;Full+Stack+Developer;Building+Real+World+Products;Founder+%7C+Startup+Builder"/>
+Building a technology platform for appliance repair services across India.
 </p>
 
 ---
 
-# 👋 Hello, I'm Sanjiv
+## 👨‍💻 About Me
 
-Full-stack developer focused on **building real-world digital products**.
-
-I enjoy working on **systems that solve practical problems**, combining
-clean design, scalable architecture, and user-focused experiences.
-
-Currently working on a **technology platform in the service industry**.
-
-Not public yet.
+- 🚀 Founder & Developer of **Yantra Care**
+- 📱 Building a **Doorstep Appliance Repair Platform**
+- 💻 Full Stack Developer (Flutter + React + Node.js)
+- 🎯 Goal: Build a **real tech startup**
+- 🌱 Currently learning **System Design, Scalable Apps & AI**
 
 ---
 
-## 🚀 Current Focus
+## 🧠 Current Focus
 
-• Building scalable applications
-• Designing startup-grade products
-• Developing mobile and web platforms
-• Learning system design and product architecture
-
----
-
-## ⚡ What I Build
-
-• Mobile Applications
-• Web Platforms
-• Backend Systems
-• Service Marketplaces
-• Product-driven startups
+- Developing **Yantra Care Mobile App (Flutter)**
+- Building **Node.js + MySQL Backend**
+- Designing **Startup-grade UI/UX**
+- Creating **technician & inventory systems**
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**
+### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Flutter
-React
-HTML
-CSS
-Tailwind
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend**
-
-Node.js
-Express
-MySQL
-
-**Tools**
-
-Git
-GitHub
-Figma
-Android Studio
-VS Code
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🧪 Selected Work
+## 🚀 Featured Project
 
-Currently building something in the **service infrastructure space**.
+### 🔧 Yantra Care
+A **doorstep appliance repair and pickup service platform**
 
-The goal is to rethink how **offline services connect with technology**.
+Features:
+- 📱 Mobile app for customers
+- 🛠 Technician management
+- 📦 Pickup repair system
+- 💳 Online payment integration
+- 📍 Location-based booking
+- 📊 Service management dashboard
 
-More details coming soon.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivkumar09&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📬 Contact
-
-Email
-[kushwahasanjiv01@gmail.com](mailto:kushwahasanjiv01@gmail.com)
-
----
-
-> I believe the best way to learn technology
-> is by **building products that people actually use.**
-
-⭐ From **Sanjiv Kumar Kushwaha**
+Tech Stack:
