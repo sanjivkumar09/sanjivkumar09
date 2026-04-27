@@ -2,7 +2,11 @@
 <h3 align="center">🚀 Founder of Yantra Care | Full Stack Developer | Flutter & React</h3>
 
 <p align="center">
-Building a technology platform for appliance repair services across India.
+Building a real-world technology platform for appliance repair services across India 🇮🇳
+</p>
+
+<p align="center">
+🚀 Open for <b>Internships</b> & <b>Freelancing</b>
 </p>
 
 ---
@@ -11,9 +15,9 @@ Building a technology platform for appliance repair services across India.
 
 - 🚀 Founder & Developer of **Yantra Care**
 - 📱 Building a **Doorstep Appliance Repair Platform**
-- 💻 Full Stack Developer (Flutter + React + Node.js)
-- 🎯 Goal: Build a **real tech startup**
-- 🌱 Currently learning **System Design, Scalable Apps & AI**
+- 💻 Full Stack Developer (**Flutter + React + Node.js + MySQL**)
+- 🎯 Goal: Build a **real tech startup (not just projects)**
+- 🌱 Learning **System Design, Scalable Apps & AI**
 
 ---
 
@@ -23,6 +27,34 @@ Building a technology platform for appliance repair services across India.
 - Building **Node.js + MySQL Backend**
 - Designing **Startup-grade UI/UX**
 - Creating **technician & inventory systems**
+
+---
+
+## 🚀 Featured Project
+
+### 🔧 Yantra Care
+
+A **full-stack service marketplace platform** for appliance repair & pickup services.
+
+### 🔥 Key Features
+- 📱 Mobile app for customers
+- 🛠 Technician management system
+- 📦 Pickup & repair workflow
+- 💳 Online payment integration (Razorpay)
+- 📍 Location-based booking
+- 📊 Admin & service dashboard
+
+### 🛠 Tech Stack
+- Frontend: React, Flutter, Tailwind
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Tools: Git, GitHub, Figma
+
+### 🌐 Live Project
+👉 ([Add your website link here](https://www.yantra-care.in/))
+
+### 💻 GitHub Repo
+👉 https://github.com/sanjivkumar09/yantra-care
 
 ---
 
@@ -49,23 +81,6 @@ Building a technology platform for appliance repair services across India.
 
 ---
 
-## 🚀 Featured Project
-
-### 🔧 Yantra Care
-A **doorstep appliance repair and pickup service platform**
-
-Features:
-- 📱 Mobile app for customers
-- 🛠 Technician management
-- 📦 Pickup repair system
-- 💳 Online payment integration
-- 📍 Location-based booking
-- 📊 Service management dashboard
-
-Tech Stack:
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,11 +100,8 @@ Tech Stack:
 
 ## 🌐 Connect With Me
 
-📧 Email: **kushwahasanjiv01@gmail.com**
-
-💼 LinkedIn: *(add your LinkedIn link)*  
-
-🐦 Twitter / X: *(optional)*
+📧 Email: **kushwahasanjiv01@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/sanjiv-kumar-014b7b277  
 
 ---
 
