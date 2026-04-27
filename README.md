@@ -51,7 +51,7 @@ A **full-stack service marketplace platform** for appliance repair & pickup serv
 - Tools: Git, GitHub, Figma
 
 ### 🌐 Live Project
-👉 ([Add your website link here](https://www.yantra-care.in/))
+👉 (https://www.yantra-care.in/)
 
 ### 💻 GitHub Repo
 👉 https://github.com/sanjivkumar09/yantra-care
