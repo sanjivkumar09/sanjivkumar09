@@ -53,9 +53,6 @@ A **full-stack service marketplace platform** for appliance repair & pickup serv
 ### 🌐 Live Project
 👉 (https://www.yantra-care.in/)
 
-### 💻 GitHub Repo
-👉 https://github.com/sanjivkumar09/yantra-care
-
 ---
 
 ## 🛠 Tech Stack
