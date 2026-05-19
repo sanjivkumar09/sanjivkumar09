@@ -11,10 +11,25 @@
 <img src="https://img.shields.io/github/stars/sanjivkumar09?style=for-the-badge&color=06b6d4&labelColor=000000"/>
 
 <br/><br/>
-<img src="https://img.shields.io/badge/Startup-Yantra%20Care-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-ServiceTech-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Platform-Web%20+%20Mobile-0ea5e9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Country-India-181717?style=for-the-badge"/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sanjiv-kumar-014b7b277">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanjivkumar09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.yantra-care.in/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:kushwahasanjiv01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 </div>
 
@@ -164,32 +179,6 @@ Specialization:
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivkumar09&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sanjiv-kumar-014b7b277">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sanjivkumar09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.yantra-care.in/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:kushwahasanjiv01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
