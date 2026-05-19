@@ -1,93 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sanjiv Kumar Kushwaha</h1>
-<h3 align="center">🚀 Founder of Yantra Care | Full Stack Developer | Flutter & React</h3>
+# Hi 👋, I'm Sanjiv Kumar Kushwaha
+
+<h3 align="center">
+🚀 Founder of Yantra Care • Full Stack Developer • Flutter & React Engineer
+</h3>
 
 <p align="center">
-Building a real-world technology platform for appliance repair services across India 🇮🇳
+Building technology solutions for India's appliance repair ecosystem 🇮🇳
 </p>
 
 <p align="center">
-🚀 Open for <b>Internships</b> & <b>Freelancing</b>
+<a href="https://www.yantra-care.in/">🌐 Yantra Care</a> •
+<a href="https://github.com/sanjivkumar09">GitHub</a> •
+<a href="https://www.linkedin.com/in/sanjiv-kumar-014b7b277">LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🚀 Founder & Developer of **Yantra Care**
-- 📱 Building a **Doorstep Appliance Repair Platform**
-- 💻 Full Stack Developer (**Flutter + React + Node.js + MySQL**)
-- 🎯 Goal: Build a **real tech startup (not just projects)**
-- 🌱 Learning **System Design, Scalable Apps & AI**
+* 🔧 Founder & Developer of **Yantra Care**
+* 📱 Building a scalable appliance repair platform
+* 💻 Full Stack Developer specializing in:
+
+  * Flutter
+  * React.js
+  * Node.js
+  * MySQL
+* 🎯 Focused on building real-world startup products
+* 🌱 Currently learning:
+
+  * System Design
+  * Scalable Architecture
+  * AI Integrations
+  * Product Engineering
 
 ---
 
-## 🧠 Current Focus
+# 🔥 Featured Startup — Yantra Care
 
-- Developing **Yantra Care Mobile App (Flutter)**
-- Building **Node.js + MySQL Backend**
-- Designing **Startup-grade UI/UX**
-- Creating **technician & inventory systems**
+### A modern appliance repair & doorstep service platform
+
+Yantra Care is a startup-focused service marketplace platform designed to simplify appliance repair booking, technician management, and repair workflows across India.
 
 ---
 
-## 🚀 Featured Project
+## ✨ Core Features
 
-### 🔧 Yantra Care
-
-A **full-stack service marketplace platform** for appliance repair & pickup services.
-
-### 🔥 Key Features
-- 📱 Mobile app for customers
-- 🛠 Technician management system
-- 📦 Pickup & repair workflow
-- 💳 Online payment integration (Razorpay)
-- 📍 Location-based booking
-- 📊 Admin & service dashboard
-
-### 🛠 Tech Stack
-- Frontend: React, Flutter, Tailwind
-- Backend: Node.js, Express.js
-- Database: MySQL
-- Tools: Git, GitHub, Figma
-
-### 🌐 Live Project
-👉 (https://www.yantra-care.in/)
+* 📱 Customer mobile application
+* 🛠 Technician & service management
+* 📍 Live location-based booking
+* 💳 Razorpay payment integration
+* 📦 Pickup & doorstep repair workflow
+* 📊 Admin dashboard & analytics
+* 🔐 Authentication & secure APIs
+* 📄 Invoice & booking management
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+* Flutter
+* React.js
+* Tailwind CSS
+* HTML5 / CSS3
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+* Node.js
+* Express.js
+* MySQL
+
+### Tools & Platforms
+
+* Git & GitHub
+* Android Studio
+* VS Code
+* Figma
+* Postman
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjivkumar09&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivkumar09&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjivkumar09&theme=tokyo-night"/>
@@ -95,18 +100,44 @@ A **full-stack service marketplace platform** for appliance repair & pickup serv
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Current Focus
 
-📧 Email: **kushwahasanjiv01@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/sanjiv-kumar-014b7b277  
-
----
-
-## ⚡ Fun Fact
-
-> I am not just building apps —  
-> I am building a **startup ecosystem around technology.**
+* 📱 Scaling Yantra Care Mobile App
+* ⚙️ Building production-ready backend systems
+* 🎨 Designing startup-grade UI/UX
+* 🧠 Exploring AI-powered automation
+* ☁️ Learning scalable deployment architecture
 
 ---
 
-⭐ From [Sanjiv Kumar Kushwaha](https://github.com/sanjivkumar09)
+# 🤝 Open To
+
+* Internship Opportunities
+* Freelance Projects
+* Startup Collaborations
+* Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **[kushwahasanjiv01@gmail.com](mailto:kushwahasanjiv01@gmail.com)**
+
+💼 LinkedIn:
+[www.linkedin.com/in/sanjiv-kumar-014b7b277](http://www.linkedin.com/in/sanjiv-kumar-014b7b277)
+
+🌐 Website:
+https://www.yantra-care.in/
+
+---
+
+# ⚡ Founder Mindset
+
+> “I’m not just building applications —
+> I’m building technology infrastructure for real-world services.”
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/sanjivkumar09">Sanjiv Kumar Kushwaha</a>
+</p>
